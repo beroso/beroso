@@ -9,8 +9,7 @@ I'm **André Sousa**, a passionate software developer.
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Andr%C3%A9%20Sousa-orange)](https://stackoverflow.com/users/3746290/andr%c3%a9-sousa)
 
 
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=beroso&show_icons=true&theme=radical)](https://github.com/beroso)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beroso&layout=compact&theme=radical)](https://github.com/beroso)
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=beroso&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beroso&layout=compact&theme=radical)](https://github.com/beroso)
 
 
 <!--
