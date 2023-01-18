@@ -11,8 +11,8 @@ I'm **André Sousa**, a passionate software developer.
 
 
 [
-<img src="https://github-readme-stats.vercel.app/api?username=beroso&show_icons=true&theme=radical" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beroso&layout=compact&theme=radical" height="180em">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=beroso&show_icons=true&theme=radical" height="180em">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beroso&layout=compact&theme=radical" height="180em">
 ](https://github.com/beroso)
 
 
