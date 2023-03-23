@@ -15,6 +15,8 @@ I'm **André Sousa**, a passionate software developer.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beroso&layout=compact&theme=radical" height="180em">
 ](https://github.com/beroso)
 
+#### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/beroso/count.svg)
 
 <!--
 **beroso/beroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
