@@ -16,7 +16,7 @@ I'm **André Sousa**, a passionate software developer.
 ](https://github.com/beroso)
 
 #### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/beroso/count.svg)
+![](https://komarev.com/ghpvc/?username=beroso)
 
 <!--
 **beroso/beroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
