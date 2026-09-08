@@ -10,8 +10,6 @@ I'm **André Sousa**, a passionate software developer.
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Andr%C3%A9%20Sousa-orange)](https://stackoverflow.com/users/3746290/andr%c3%a9-sousa)
 
 
-![](https://komarev.com/ghpvc/?username=beroso)
-
 <!--
 **beroso/beroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
