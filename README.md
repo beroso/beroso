@@ -10,11 +10,6 @@ I'm **André Sousa**, a passionate software developer.
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Andr%C3%A9%20Sousa-orange)](https://stackoverflow.com/users/3746290/andr%c3%a9-sousa)
 
 
-[
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=beroso&show_icons=true&theme=radical" height="180em">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beroso&layout=compact&theme=radical" height="180em">
-](https://github.com/beroso)
-
 ![](https://komarev.com/ghpvc/?username=beroso)
 
 <!--
